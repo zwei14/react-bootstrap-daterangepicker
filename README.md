@@ -1,3 +1,3 @@
-# react-bootstrap-datetimepicker
+# react-bootstrap-daterangepicker
 
-This is the demo site for [react-bootstrap-datetimepicker](https://github.com/skratchdot/react-bootstrap-datetimepicker).
+This is the demo site for [react-bootstrap-daterangepicker](https://github.com/skratchdot/react-bootstrap-daterangepicker).
