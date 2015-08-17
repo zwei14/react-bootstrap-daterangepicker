@@ -6798,6 +6798,9 @@ button.close {
   padding: 0 6px 0 28px;
   width: 100%;
 }
+.daterangepicker .input-mini.active {
+  border: 1px solid #357ebd;
+}
 .daterangepicker .daterangepicker_input i {
   position: absolute;
   left: 8px;
